@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
   end
 
   def blah
-    render html: "this is the blah path!"
+    render html: "this is another path!"
   end
 
 end
